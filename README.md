@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krunalk2004
+- 👋 Hi, I’m @Krunal
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning AWS and Red hat Linux
 - 💞️ I’m looking to collaborate on Linkdin
